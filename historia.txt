@@ -1,2 +1,4 @@
 Esta es la historia de eduardo 
 tengo 22 años T.T
+
+estoy tomando el curso de git.
