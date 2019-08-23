@@ -34,3 +34,9 @@ body
 {
     font-size: 20px;
 }
+
+#container #post #test
+{
+    width: 450px;
+    vertical-align: middle;
+}
